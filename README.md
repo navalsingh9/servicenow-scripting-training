@@ -50,8 +50,8 @@ Make sure to try each scenario in your PDI. Tweak them. Understand the "why" beh
 
 ### 🎥 YouTube Channels
 - [ServiceNow Dev Program (Official)](https://www.youtube.com/@servicenowdevprogram)
-- [The SN Guys](https://www.youtube.com/@thesnguys)
-- [UI Pathways](https://www.youtube.com/@uipathways)
+- [ServiceNow Community](https://www.youtube.com/@ServiceNowCommunity)
+- [ServiceNow Documentation](https://www.youtube.com/@ServiceNowDocs)
 
 ### 📘 Docs & Platforms
 - [ServiceNow Developer Site](https://developer.servicenow.com)
