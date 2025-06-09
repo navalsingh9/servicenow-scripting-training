@@ -68,7 +68,7 @@ Make sure to try each scenario in your PDI. Tweak them. Understand the "why" beh
 
 ## 👨‍💻 Contributors
 
-Created by [Your Name Here]  
+Created by [Naval]  
 Organized by SKILL INSTILL · June 2025
 
 ---
