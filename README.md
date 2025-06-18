@@ -65,11 +65,36 @@ Make sure to try each scenario in your PDI. Tweak them. Understand the "why" beh
 - LinkedIn Groups: *Search "ServiceNow Developers"*
 
 ---
+ServiceNow Versioning: Overview of current releases (Xanadu, Yokohama, Zurich) and their relevance to enterprise deployments.
+Automatic Incident Creation via Monitoring Tools:
+Integration examples with SolarWinds and SCOM
+Explanation of how alerts can generate tickets automatically
+Email Triggering to Mailbox:
+Configuration of inbound email actions
+How specific email patterns result in incident creation
+Email Notifications Triggered by Incident Creation:
+Workflow and Flow Designer mechanisms that drive email notifications
+Practical example: how assignment or status changes notify users
+
+https://learning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307
+
+  Welcome to ServiceNow Course - Overview             10 Minutes       
+  A ServiceNow Platform Overview                       8 Minutes       
+  Next Experience, Navigation, and Access Module      33 Minutes        
+  Lists and Filters Module                            25 Minutes        
+  Forms Module                                        20 Minutes        
+  Tasks Module                                        23 Minutes        
+  Reporting Module                                    21 Minutes        
+  Knowledge Management Module                         13 Minutes        
+  Service Catalog Module                              11 Minutes        
+  Virtual Agent Module                                11 Minutes        
+  Welcome to ServiceNow Course Summary                 5 Minutes        
+
 
 ## 👨‍💻 Contributors
 
 Created by [Naval]  
-Organized by SKILL INSTILL · June 2025
+June 2025
 
 ---
 
