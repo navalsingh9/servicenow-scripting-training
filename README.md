@@ -66,15 +66,25 @@ Make sure to try each scenario in your PDI. Tweak them. Understand the "why" beh
 
 ---
 ServiceNow Versioning: Overview of current releases (Xanadu, Yokohama, Zurich) and their relevance to enterprise deployments.
+
 Automatic Incident Creation via Monitoring Tools:
+
 Integration examples with SolarWinds and SCOM
+
 Explanation of how alerts can generate tickets automatically
+
 Email Triggering to Mailbox:
+
 Configuration of inbound email actions
+
 How specific email patterns result in incident creation
+
 Email Notifications Triggered by Incident Creation:
+
 Workflow and Flow Designer mechanisms that drive email notifications
+
 Practical example: how assignment or status changes notify users
+
 
 https://learning.servicenow.com/lxp/en/now-platform/welcome-to-servicenow?id=learning_course_prev&course_id=2f61d383475cf95890542034846d4307
 
